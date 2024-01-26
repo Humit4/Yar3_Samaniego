@@ -1,0 +1,10 @@
+/*.fondo{
+    background-image: url(../images/naranja.jpg);
+    background-position: center;
+}
+.parrafo{
+    font-weight: bolder;
+}*/
+.boton{
+    background-color: rgba(7, 194, 201, 0.671) !important;
+}
